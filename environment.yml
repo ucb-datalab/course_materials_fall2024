@@ -41,6 +41,7 @@ dependencies:
 - jax>=0.4.31
 - jaxlib>=0.4.31
 - cython==3.0.11
+- sqlite==3.46.0
 - pip
 
 - pip:
@@ -110,3 +111,5 @@ dependencies:
   - nb2pdf==0.6.2
   - nbpdfexport==0.2.1
   - pytest-notebook==0.8.1
+  - jupyter-tensorboard>=0.2.0
+  
