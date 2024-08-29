@@ -41,7 +41,6 @@ dependencies:
 - jax>=0.4.31
 - jaxlib>=0.4.31
 - cython==3.0.11
-- sqlite==3.46.0
 - pip
 
 - pip:
