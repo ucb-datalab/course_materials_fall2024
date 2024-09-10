@@ -22,6 +22,7 @@ dependencies:
 - scikit-image==0.24.*
 - scipy==1.14.*
 - cython==3.0.11
+- marimo>=0.8.14
 - pip
 
 - pip:
@@ -89,3 +90,4 @@ dependencies:
   - nbpdfexport==0.2.1
   - otter-grader>=3.1.4
   - jupyter-tensorboard
+  - celerite2

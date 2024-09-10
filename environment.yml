@@ -41,6 +41,7 @@ dependencies:
 - jax>=0.4.31
 - jaxlib>=0.4.31
 - cython==3.0.11
+- marimo>=0.8.14
 - pip
 
 - pip:
@@ -111,4 +112,5 @@ dependencies:
   - nbpdfexport==0.2.1
   - pytest-notebook==0.8.1
   - jupyter-tensorboard>=0.2.0
-  
+  - celerite2
+
